@@ -1,0 +1,33 @@
+
+ Imgur v0.1 
+
+ Alexander Weber, http://tinkerlog.com
+
+ Imgur Image Upload library for Arduino
+
+ What is it?
+ -----------
+ This lib lets you upload pictures with your Arduino. Pictures are uploaded
+ to Imgur.com. Imgur.com is an image store just like TwitPic.
+ It requires a WiFly or Ethernet shield.
+
+
+ Install
+ -------
+ Copy the Imgur directory to your Arduino/libraries directory.
+
+
+ How to?
+ -------
+ 1. Go to Imgur.com and acquire an application key.
+ 2. Open the Imgur example. Insert the application key.
+ 3. Adopt the settings for the WiFly shield to your needs. The Ethernet
+    shield should work with minimal changes as well, but I haven't tested
+    that.
+ 4. Start the sketch. Open the terminal. Wait until it displays the image
+    URL. Check for the image at Imgur.com.
+ 5. Have fun!
+
+
+ 
+
