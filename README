@@ -1,5 +1,5 @@
 
- Imgur v0.1 
+ Imgur v0.1 2010/06/21
 
  Alexander Weber, http://tinkerlog.com
 
@@ -8,7 +8,8 @@
  What is it?
  -----------
  This lib lets you upload pictures with your Arduino. Pictures are uploaded
- to Imgur.com. Imgur.com is an image store just like TwitPic.
+ to Imgur.com. Imgur.com is an image store just like TwitPic. 
+ It is an adoption of the TwitPic lib by arms22 http://code.google.com/p/arms22/
  It requires a WiFly or Ethernet shield.
 
 

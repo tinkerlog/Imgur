@@ -2,8 +2,8 @@
 
  Imgur Image Upload library for Arduino
 
- This library resembles very much the TwitPic library of arms22 and 
- shares some code. http://code.google.com/p/arms22/
+ This library is an adopted version of the TwitPic library by arms22. 
+ http://code.google.com/p/arms22/
 
  Copyright (C) 2010 Alexander Weber, tinkerlog.com
 
